@@ -29,4 +29,4 @@ body { background-color: darkturquoise; }
 Tu peux écrire une *phrase* super **longue**, c'est rigolo, ça se met bien à la ligne dans la fenêtre à droite donc osef
 
 Lien vers [Google] (https://www.google.fr)
-![chat](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8aeinLzuleuH8_lqXuaNM3ZE5Cc_crEfI_CYWfHFE5B2w22iI)
+![chat](https://cdn.discordapp.com/attachments/283981867164631040/309694902667575319/10402383_10205204238938061_204081676176156327_n.jpg)
